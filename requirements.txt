@@ -5,3 +5,4 @@ pytesseract
 pillow
 sqlalchemy
 PyPDF2
+python-multipart
